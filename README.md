@@ -1,3 +1,4 @@
+[![Board Status](https://manb-msft-labs.visualstudio.com/026e4d98-4727-47af-a5cd-7be4c9512977/20debf3c-571a-4a63-a9d5-b9003bc29bce/_apis/work/boardbadge/4f9c6056-64e5-4a47-917f-34a80ff9c287)](https://manb-msft-labs.visualstudio.com/026e4d98-4727-47af-a5cd-7be4c9512977/_boards/board/t/20debf3c-571a-4a63-a9d5-b9003bc29bce/Microsoft.RequirementCategory)
 # App Center Build Scripts Examples
 
 This repository contains a collection of build scripts examples for the [App Center](https://appcenter.ms) Build service. Build scripts are a powerful way to control the build process on App Center at three pre-defined stages. More details about the usage of build scripts on App Center can be found in the [documentation](https://docs.microsoft.com/en-us/appcenter/build/custom/scripts/). Feel free to use and modify the scripts as you need them.
